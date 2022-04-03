@@ -1,0 +1,56 @@
+
+body{
+    background-color: aliceblue;
+}
+label{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #218f61;
+    
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+}   
+
+.card{
+    width: 600px;
+    padding: 70px;
+    margin-top: 40px;
+    margin-bottom: 48px;
+    box-shadow: 3px 3px 4px 4px #218f61;
+    border-radius: 8px;
+    
+}
+.card-header{
+    
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 50px;
+    background-color: #218f61;
+    text-align: center;
+       
+}
+
+.card-title{
+        
+    color: aliceblue;
+}
+
+.fas{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    position: relative;
+    left: -39px;
+    top: 1px;
+    color: #218f61;
+    cursor: pointer;
+}
+
+.salvar{
+    background-color: #218f61;
+}
+
+ 
