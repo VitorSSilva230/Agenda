@@ -10,7 +10,7 @@ A Agenda é uma aplicação voltada para armazernar dados de contatos, podendo e
 <img src="https://user-images.githubusercontent.com/85320603/161438501-f98e5ba8-2bb1-4400-a053-d7886ae85255.gif" width="600px"> 
 </br>
 <h2> Excluindo um contato</h2>
-<img src="https://user-images.githubusercontent.com/85320603/161438511-5176d91d-e822-4363-8338-d4de74c64dfb.gif" width="600px">
+<img src="https://user-images.githubusercontent.com/85320603/161480642-f111d6e4-7f1a-49f0-82e8-a2dcfc9e391d.gif" width="600px">
 
 > Tecnologias Ultilizadas
 
